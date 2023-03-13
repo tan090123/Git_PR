@@ -3,6 +3,7 @@
   padding: 0;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
+  scroll-behavior: smooth;
 }
 
 html {
@@ -21,11 +22,11 @@ header {
 }
 
 main {
-  height: 41.5rem;
+  height: 60rem;
   background-color: #a29bfe;
 }
 
 footer {
-  height: 10rem;
+  height: 30rem;
   background-color: #ffeaa7;
 }
